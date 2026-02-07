@@ -1,4 +1,4 @@
-# Mosaic - Location-Based Community Game
+# Tartanverse - Location-Based Community Social Network
 
 "Mosaic" is a browser-based, location-aware multiplayer game where players can explore a 3D map of their campus, interactions with other players in real-time, link "bank accounts" to upgrade their status, and complete physical side quests for rewards.
 
